@@ -1,3 +1,5 @@
+> This repo is forked from [kbinani/screenshot](https://github.com/kbinani/screenshot) for using it in a long time.
+
 screenshot
 ==========
 
